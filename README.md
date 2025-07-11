@@ -2,7 +2,7 @@
 
 > A sleek and minimal dark theme with elegant pastel syntax highlights, designed for developers who love coding in the calm of the night.
 
-![Carbonight Preview](images/preview.png)
+![Carbonight Preview](https://raw.githubusercontent.com/erfannsb/carbonight/master/images/preview.png)
 
 
 ## Why Carbonight?
