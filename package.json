@@ -3,7 +3,7 @@
   "displayName": "Carbonight",
   "icon": "icon.png",
   "description": "Minimalist dark theme with carbon tones, carefully designed for clarity, contrast, and productivity.",
-  "publisher": "Erfan Nasibi",
+  "publisher": "erfannsb",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.102.0"
