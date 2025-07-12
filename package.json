@@ -6,7 +6,7 @@
   "publisher": "erfannsb",
   "version": "0.1.4",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": ">=1.50.0"
   },
   "keywords": [
     "carbonight",
