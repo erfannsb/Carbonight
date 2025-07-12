@@ -22,7 +22,10 @@
 		"editorBracketMatch.background": "#1e2123",
 		"editorSuggestWidget.background": "#141414",
 		"editorHoverWidget.background": "#141414",
-
+		"editorBracketHighlight.foreground1": "#e76d8c",
+		"editorBracketHighlight.foreground2": "#e0daa5",
+		"editorBracketHighlight.foreground3": "#a5cfe0",
+		"editorBracketHighlight.foreground4": "#baa5e0",
 	},
 	"tokenColors": [
 		{

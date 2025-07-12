@@ -1,6 +1,6 @@
 {
   "name": "carbonight",
-  "displayName": "Carbonight",
+  "displayName": "Carbonight Theme",
   "icon": "icon.png",
   "description": "Minimalist dark theme with carbon tones, carefully designed for clarity, contrast, and productivity.",
   "publisher": "erfannsb",
@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Carbonight",
+        "label": "Carbonight Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Carbonight-color-theme.json"
       }
