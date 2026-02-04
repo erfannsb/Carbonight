@@ -4,7 +4,7 @@
   "icon": "icon.png",
   "description": "Minimalist dark theme with carbon tones, carefully designed for clarity, contrast, and productivity.",
   "publisher": "erfannsb",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "engines": {
     "vscode": ">=1.50.0"
   },
@@ -84,9 +84,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Carbonight Theme",
+        "label": "Carbonight Midnight Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Carbonight-color-theme.json"
+        "path": "./themes/Carbonight-midnight-color-theme.json"
+      },
+      {
+        "label": "Carbonight Twilight Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carbonight-twilight-color-theme.json"
+      },
+      {
+        "label": "Carbonight Dusk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carbonight-dusk-color-theme.json"
       }
     ]
   }

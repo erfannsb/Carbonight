@@ -1,37 +1,69 @@
 # 🌑 Carbonight — A Soft Pastel Dark Theme for VS Code
 
-> A sleek and minimal dark theme with elegant pastel syntax highlights, designed for developers who love coding in the calm of the night.
+Carbonight is a carefully crafted dark theme that blends **deep, near-black backgrounds** with **soft pastel syntax colors**, designed for developers who enjoy calm, focused coding sessions — especially at night.
 
 ![Carbonight Preview](https://raw.githubusercontent.com/erfannsb/carbonight/master/images/preview.png)
 
+![Carbonight Midnight Preview](https://raw.githubusercontent.com/erfannsb/carbonight/master/images/midnight.png)
 
-## Why Carbonight?
+![Carbonight twilight Preview](https://raw.githubusercontent.com/erfannsb/carbonight/master/images/twilight.png)
 
-Carbonight blends deep black tones with gentle pastel hues to offer:
-- 💡 Readable low-contrast text
-- 🎨 Pleasant soft-colored syntax
-- 🌚 A relaxing look for long sessions
-- ✅ Great for eyes in low-light environments
-- 🤖 Tailored for JS, TS, HTML, CSS, JSON, Python, and more
+![Carbonight dusk Preview](https://raw.githubusercontent.com/erfannsb/carbonight/master/images/dusk.png)
 
+---
 
-## Features
+## ✨ Why Carbonight?
 
-- Minimal UI with carefully selected accent colors
-- Pastel palette on a pure black `#0A0A0A` background
-- Supports bracket matching, warnings/errors
-- Built-in support for dark mode consistency
+Carbonight is built around one idea:
+**reduce visual noise without killing personality**.
 
-## Installation
+It combines true dark tones with gentle contrast to give you:
 
-From **VS Code Marketplace**:
+- 💡 Excellent readability without harsh contrast
+- 🎨 Soft pastel syntax that’s expressive but never loud
+- 🌚 A calm, distraction-free atmosphere for long sessions
+- 👁️ Eye-friendly colors optimized for low-light environments
+- 🤖 Thoughtful support for JS, TS, HTML, CSS, JSON, Python, and more
 
-1. Open the **Extensions** sidebar in VS Code
-2. Search for `Carbonight`
+---
+
+## 🧩 Features
+
+- Minimal, modern UI with subtle accents
+- Pure black–leaning background (`#0A0A0A`) for OLED and dark setups
+- Carefully tuned pastel color palette for syntax highlighting
+- Clear bracket matching and error/warning visibility
+- Consistent dark styling across editor, sidebar, panels, and terminal
+
+---
+
+## 📦 Installation
+
+### From the VS Code Marketplace
+
+1. Open **Extensions** in VS Code
+2. Search for **Carbonight**
 3. Click **Install**
-4. Go to `Preferences` → `Color Theme` → select **Carbonight**
+4. Open
+   `Preferences → Color Theme → Carbonight`
 
-OR run this command:
+### Or via command line
 
 ```bash
 ext install erfannsb.carbonight
+```
+
+---
+
+## 🖤 Philosophy
+
+Carbonight avoids aggressive contrast, neon colors, and visual clutter.
+It’s meant to **fade into the background** so your code stays in focus.
+
+If you like themes that are:
+
+- dark but not pitch-harsh
+- colorful but not noisy
+- minimal but not boring
+
+Carbonight is for you.
